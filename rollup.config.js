@@ -55,7 +55,7 @@ const configs = [
     ...indexConfig,
     input: './src/web.ts',
     output: {
-      file: 'dist/web.js',
+      file: 'dist/web_branding_removed.js',
       format: 'es',
     },
   },
